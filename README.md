@@ -1,4 +1,4 @@
-# Desire Sentinel
+# GoByte Sentinel
 
 *You only need this if you are running a masternode and getting WATCHDOG_EXPIRED*
 
